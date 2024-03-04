@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CrouchManCoder-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\CrouchManCoderEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\ChestCannonComponent.gen.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\CrouchManCoder.init.gen.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\CrouchManCoderCharacter.gen.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\CrouchManCoderGameMode.gen.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\CrouchManCoder.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\CrouchManCoderCharacter.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\CrouchManCoderGameMode.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\ChestCannonComponent.cpp.obj"
+"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\Default.rc2.res"
+/OUT:"C:\Users\Alexa\OneDrive\Documents\Unreal Projects\CrouchManCoder\Intermediate\Build\Win64\x64\UnrealEditor\Development\CrouchManCoder\UnrealEditor-CrouchManCoder-0001.lib"

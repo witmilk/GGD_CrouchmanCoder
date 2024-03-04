@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CrouchManCoder.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CrouchManCoder.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CrouchManCoderEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CrouchManCoder">
+      <UniqueIdentifier>{48793C3A-3C2B-3796-B72B-51D6650B8701}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CrouchManCoder\CrouchManCoder.Build.cs">
+      <Filter>Source\CrouchManCoder</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CrouchManCoder\CrouchManCoder.cpp">
+      <Filter>Source\CrouchManCoder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrouchManCoder\CrouchManCoder.h">
+      <Filter>Source\CrouchManCoder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CrouchManCoder\CrouchManCoderCharacter.cpp">
+      <Filter>Source\CrouchManCoder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrouchManCoder\CrouchManCoderCharacter.h">
+      <Filter>Source\CrouchManCoder</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CrouchManCoder\CrouchManCoderGameMode.cpp">
+      <Filter>Source\CrouchManCoder</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrouchManCoder\CrouchManCoderGameMode.h">
+      <Filter>Source\CrouchManCoder</Filter>
+    </ClInclude>
+    <Filter Include="Source\CrouchManCoder\Private">
+      <UniqueIdentifier>{3447DBB0-933B-3F37-8E08-A3DCF773074F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CrouchManCoder\Private\ChestCannonComponent.cpp">
+      <Filter>Source\CrouchManCoder\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CrouchManCoder\Private\CPP_AI_Controller.cpp">
+      <Filter>Source\CrouchManCoder\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CrouchManCoder\Private\CrouchManCoderMySaveGame.cpp">
+      <Filter>Source\CrouchManCoder\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CrouchManCoder\Private\DoorActor.cpp">
+      <Filter>Source\CrouchManCoder\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CrouchManCoder\Private\LightSwitchActor.cpp">
+      <Filter>Source\CrouchManCoder\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CrouchManCoder\Public">
+      <UniqueIdentifier>{B0DC8B28-7C65-3FEB-AAC5-BF54A5C9AE42}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CrouchManCoder\Public\ChestCannonComponent.h">
+      <Filter>Source\CrouchManCoder\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CrouchManCoder\Public\CPP_AI_Controller.h">
+      <Filter>Source\CrouchManCoder\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CrouchManCoder\Public\CrouchManCoderMySaveGame.h">
+      <Filter>Source\CrouchManCoder\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CrouchManCoder\Public\DoorActor.h">
+      <Filter>Source\CrouchManCoder\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CrouchManCoder\Public\LightSwitchActor.h">
+      <Filter>Source\CrouchManCoder\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

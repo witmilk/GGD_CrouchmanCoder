@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\intermediate\\build\\win64\\unrealeditor\\inc\\crouchmancoder\\uht\\crouchmancodergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\intermediate\\build\\win64\\x64\\crouchmancodereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crouchmancoder\\definitions.crouchmancoder.h",
+            "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\source\\crouchmancoder\\crouchmancodergamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\intermediate\\build\\win64\\unrealeditor\\inc\\crouchmancoder\\uht\\crouchmancodergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

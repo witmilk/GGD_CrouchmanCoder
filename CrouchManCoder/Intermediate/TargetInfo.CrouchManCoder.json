@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CrouchManCoder",
+			"Path": "..\\Source\\CrouchManCoder.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CrouchManCoderEditor",
+			"Path": "..\\Source\\CrouchManCoderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

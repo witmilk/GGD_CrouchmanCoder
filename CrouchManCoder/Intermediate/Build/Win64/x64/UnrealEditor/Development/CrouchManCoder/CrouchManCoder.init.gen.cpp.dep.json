@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\intermediate\\build\\win64\\unrealeditor\\inc\\crouchmancoder\\uht\\crouchmancoder.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\intermediate\\build\\win64\\x64\\crouchmancodereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\crouchmancoder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crouchmancoder\\definitions.crouchmancoder.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
